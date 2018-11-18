@@ -2,10 +2,10 @@
 main:
   - title: "Curriculum"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-   - title: "Publications"
-     url: https://mmistakes.github.io/minimal-mistakes/about/
-   - title: "Software & Code Scripts"
-     url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Publications"
+    url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Software & Code Scripts"
+    url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
