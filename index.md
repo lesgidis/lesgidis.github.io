@@ -1,7 +1,6 @@
 ---
 layout: home
-title: Me in a Nutshell
-description: "Jordi Pont-Tuset's website"
+author_profile: true
 ---
 
 I am a research scientist at <a href="https://research.google.com" target="_blank">Google Research</a> 
