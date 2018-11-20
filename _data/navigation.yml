@@ -6,7 +6,7 @@ main:
     url: https://lesgidis.github.io/publications
   - title: "Academic Software"
     url: https://lesgidis.github.io/Software
-      - title: "Code & Scripts"
+  - title: "Code & Scripts"
     url: https://lesgidis.github.io/Code
   # - title: "Sample Collections"
   #   url: /collection-archive/
