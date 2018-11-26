@@ -5,9 +5,9 @@ main:
   - title: "Publications"
     url: https://lesgidis.github.io/publications
   - title: "Academic Software"
-    url: https://lesgidis.github.io/Software
+    url: https://lesgidis.github.io/software
   - title: "Code & Scripts"
-    url: https://lesgidis.github.io/Code
+    url: https://lesgidis.github.io/code
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
