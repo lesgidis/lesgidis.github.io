@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Curriculum"
-    url: https://lesgidis.github.io/cv
+    # - title: "Curriculum"
+     #  url: https://lesgidis.github.io/cv
   - title: "Publications"
     url: https://lesgidis.github.io/publications
   - title: "Academic Software"
