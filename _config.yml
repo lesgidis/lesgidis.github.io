@@ -103,13 +103,13 @@ analytics:
 author:
   name             : "Nikolaos Lesgidis"
   avatar           : "/assets/profilepicGIT.png"
-  bio              : "Dpl.Ing,Phd, M.ASCE "
-  location         : "Edinburgh,United Kingdom."
+  bio              : "Dpl.Ing, Phd, M.ASCE "
+  location         : "Edinburgh, United Kingdom"
   email            : "nikos@deepexcavation.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:nikos@deepexcavation.com
+      #url: mailto:nikos@deepexcavation.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
